@@ -2,9 +2,11 @@
   <img src="D1NIZ.jfif" alt="Repository Logo" width="200" />
 </p>
 
-# Welcome to the Cool Open Source Project
+# Welcome to the Cool Open Source Project .
 
-🚀 We welcome your contributions! Follow these steps to get started:
+This is your first path to contribute in Open Source project and get your open source journey started 
+
+🚀 We welcome your contributions ! Follow these steps to get started:
 
 ## Fork the Repository
 
