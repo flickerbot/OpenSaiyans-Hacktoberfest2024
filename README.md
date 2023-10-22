@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="D1NIZ.jfif" alt="Repository Logo" width="200" />
+  <img src="peappx(9).jpg" alt="Repository Logo" width="200" />
 </p>
 
 # Welcome to the Cool Open Source Project .
