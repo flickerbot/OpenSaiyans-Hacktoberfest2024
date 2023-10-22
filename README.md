@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[peappx(9).jpg](https://github.com/05-kush/OpenSaiyans/blob/main/peakpx%20(9).jpg)" alt="Repository Logo" width="200" />
+  <img src="https://github.com/05-kush/OpenSaiyans/blob/main/peakpx%20(9).jpg" alt="Repository Logo" width="200" />
 </p>
 
 # Welcome to the Cool Open Source Project .
