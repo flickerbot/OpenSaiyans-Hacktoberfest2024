@@ -179,7 +179,7 @@ body {
 .pricing-features-item {
   font-weight: 600;
   letter-spacing: 1px;
-  font-size: 12px;
+  font-size: 1.2rem;
   line-height: 1.5;
   padding: 15px 0;
   border-top: 1px solid #e1f1ff;
@@ -192,7 +192,7 @@ body {
 .pricing-price {
   color: #016ff9;
   display: block;
-  font-size: 32px;
+  font-size: 3.2rem;
   font-weight: 700;
 }
 
