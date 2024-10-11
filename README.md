@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/05-kush/OpenSaiyans/blob/main/Assets/peakpx%20(9).jpg" alt="Repository Logo" width="200" />
+  <img src="https://github.com/flickerbot/OpenSaiyans-Hacktoberfest2024/blob/main/Assets/hyouka.jpg" alt="Repository Logo" width="200" />
 </p>
 
 
