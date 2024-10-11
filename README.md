@@ -4,6 +4,7 @@
 
 # Welcome to the Cool Open Source Project .
 
+
 This is your first path to contribute in Open Source project and get your open source journey started 
 
 🚀 We welcome your contributions ! Follow these steps to get started:
