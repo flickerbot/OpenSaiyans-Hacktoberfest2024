@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://github.com/flickerbot/OpenSaiyans-Hacktoberfest2024/blob/main/Assets/hyouka.jpg" alt="Repository Logo" width="200" />
+  <img src="https://github.com/flickerbot/OpenSaiyans-Hacktoberfest2024/blob/main/Assets/hyouka.jpg" alt="Repository Logo" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/flickerbot/OpenSaiyans/blob/main/Assets/intro.png" alt="intro" width="950" />
+</p>
 
-# Welcome to the Cool Open Source Project ('').
 
 
 This is your first path to contribute in Open Source project and get your open source journey started 
