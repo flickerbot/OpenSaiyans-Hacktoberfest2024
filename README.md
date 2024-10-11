@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/05-kush/OpenSaiyans/blob/main/peakpx%20(9).jpg" alt="Repository Logo" width="200" />
+  <img src="https://github.com/05-kush/OpenSaiyans/blob/main/Assets/peakpx%20(9).jpg" alt="Repository Logo" width="200" />
 </p>
 
-# Welcome to the Cool Open Source Project .
+
+# Welcome to the Cool Open Source Project ('').
 
 
 This is your first path to contribute in Open Source project and get your open source journey started 
