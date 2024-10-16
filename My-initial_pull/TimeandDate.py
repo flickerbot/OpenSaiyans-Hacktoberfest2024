@@ -1,11 +1,18 @@
-#find local time
-import datetime
-
 # Print Hello, World!
 print("Hello, World!")
 
-# Get the current time
-current_time = datetime.datetime.now()
+from datetime import datetime
+import pytz
+import tzlocal
 
-# Print the current time
-print("The current time is:", current_time.strftime("%Y-%m-%d %H:%M:%S"))
+# Get the current UTC time
+utctime = datetime.now(pytz.utc)
+
+# Get the local time zone
+local_timezone = tzlocal.get_localzone()
+
+# Get the current time in the local time zones
+localtime = datetime.now(local_timezone)
+
+print("UTC Time:", utctime)
+print("Local Time:", localtime)
