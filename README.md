@@ -6,17 +6,38 @@
   <img src="https://github.com/flickerbot/OpenSaiyans/blob/main/Assets/intro.png" alt="intro" width="950" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/flickerbot/OpenSaiyans?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/forks/flickerbot/OpenSaiyans?style=social" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/github/issues/flickerbot/OpenSaiyans" alt="GitHub Issues"/>
+  <img src="https://img.shields.io/github/license/flickerbot/OpenSaiyans" alt="License"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024-orange.svg" alt="Hacktoberfest 2024"/>
+</p>
+
+## **Welcome To OpenSaiyans!**
+
+*This is your first steps towards contributing to an open-source project and kick-starting your open-source journey!*
+
+**We are thrilled to have you here. 💥 Let's get started with some simple steps.**
+
+## *Table of Contents*
+- [Get Started](#get-started)
+- [Fork the Repository](#fork-the-repository)
+- [Clone Your Fork](#clone-your-fork)
+- [Commit Your Changes](#commit-your-changes)
+- [Push Your Changes](#push-your-changes)
+- [Create a Pull Request](#create-a-pull-request)
 
 
-This is your first path to contribute in Open Source project and get your open source journey started 
+# *Get started* 
 
-🚀 We welcome your contributions ! Follow these steps to get started:
+🚀 **We welcome your contributions ! Follow these steps to get started:**
 
-## Fork the Repository
+## **Fork the Repository**
 
-Click the "Fork" button at the top right corner of this repository's page. This will create a copy of the repository in your GitHub account.
+*Click the "Fork" button at the top right corner of this repository's page. This will create a copy of the repository in your GitHub account.*
 
-## Clone Your Fork
+## **Clone Your Fork**
 
 ```bash
 git clone https://github.com/flickerbot/OpenSaiyans.git
@@ -26,25 +47,25 @@ cd My-initial_pull                  # add files only to this folder no other fil
 
 ```
 
-Make your code changes, add files, or improve existing ones. Be creative! 
+**Make your code changes, add files, or improve existing ones. Be creative!** 
 
-## Commit Your Changes
+## *Commit Your Changes*
 
 ```bash
 git add .
 git commit -m "Add: My awesome feature"
 ```
 
-## Push Your Changes
+## *Push Your Changes*
 
 ```bash
-git push origin <your branch name>
+git push --set-upstrem origin <your branch name>
 
 ```
 
 
 
-## Create a Pull Request
+## **Create a Pull Request**
 
 Go to the original repository. <br>
 Click the "New Pull Request" button. <br>
