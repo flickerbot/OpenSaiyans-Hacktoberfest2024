@@ -63,8 +63,11 @@ We welcome contributions in the form of code improvements, bug fixes, documentat
 git clone https://github.com/flickerbot/OpenSaiyans.git
 cd OpenSaiyans
 git checkout -b <your branch name>  # Replace <your branch name> with your preferred branch name
-cd My-initial_pull                  # Add files only to this folder; no other files will be accepted
+cd My-initial_pull                  # <h1> Add files only to this folder; no other files will be accepted </h1> 
+
 ```
+> ⚠️ **Add files only to this folder; no other files will be accepted** ⚠️
+
 
 ### Commit Your Changes
 
