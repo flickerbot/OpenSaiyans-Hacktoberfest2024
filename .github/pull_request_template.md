@@ -1,19 +1,47 @@
-## What: overview about this PR
+## What:
+### Briefly describe the changes or additions you made in this PR:
+- 
 
-## Why: the purpose about this PR
+## Why:
+### Why is this change important? What problem does it solve?
+- 
 
-## How: how did you implement/fix it?
+## How:
+### Explain how you implemented this change or fixed the issue. What steps did you take?
+- 
 
-## Environment Variables:
-### Do you add environments variables:
-- [ ] what do you want to reviewer to check?
-- [ ] None
+---
 
-### Do you add production environment variables: 
-- [ ] what do you want to reviewer to check?
-- [ ] None
+## Contributor Information:
 
-### Did you wrote Test:
-- [ ] Unit test
-- [ ] Integration test
-- [ ] Manual test
+### Is this your first contribution to an open-source project?
+- [ ] Yes
+- [ ] No
+
+### What type of contribution is this?
+- [ ] Code (feature or fix)
+- [ ] LeetCode/Algorithm Problem
+- [ ] Documentation
+- [ ] Cheat Sheet
+- [ ] Other (Please specify):
+
+---
+
+## Checklist for Reviewers:
+
+### Does this PR require environment variables to be added or updated?
+- [ ] Yes (please specify)
+- [ ] No
+
+### Type of Testing:
+- [ ] Unit Test
+- [ ] Integration Test
+- [ ] Manual Test
+- [ ] No Testing Needed (e.g., documentation or non-code change)
+
+---
+
+## Additional Notes:
+### Anything you'd like the reviewer to focus on or check?
+- 
+
