@@ -1,0 +1,16 @@
+function checkPalindrome(string) {
+    // Convert string to an array, reverse it, and join it back to a string
+    const reverseString = string.split('').reverse().join('');
+
+    // Check if the original string is the same as the reversed string
+    if (string === reverseString) {
+        return 'It is a palindrome';
+    } else {
+        return 'It is not a palindrome';
+    }
+}
+
+// Example usage
+const string = prompt('Enter a string: ');
+const result = checkPalindrome(string);
+console.log(result);
